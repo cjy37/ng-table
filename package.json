@@ -1,11 +1,11 @@
 {
   "name": "ng-table",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Vitalii Savchuk <esvit666@gmail.com>",
   "license": "BSD",
   "repository": {
     "type": "git",
-    "url": "git://github.com/esvit/ng-table.git"
+    "url": "git://github.com/cjy37/ng-table.git"
   },
   "main": "dist/ng-table.js",
   "devDependencies": {
